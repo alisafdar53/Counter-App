@@ -1,5 +1,5 @@
 .bgImg {
-  background-image: url("\src\Images\size.jpg");
+  background-image: url("/src/Images/size.jpg");
   background-color: aqua;
   background-size: cover;
   backface-visibility: inherit;
