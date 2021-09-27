@@ -1,0 +1,7 @@
+.bgImg {
+  background-image: url("C:\Users\I T world\Desktop\counter-app\src\Images\size.jpg");
+  background-color: aqua;
+  background-size: cover;
+  backface-visibility: inherit;
+  height: auto;
+}
